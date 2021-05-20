@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/kirk/librealsense-2.43.0/examples/hello-realsense/build",
+  "command": "/usr/bin/g++-7   -g -std=gnu++11 -o CMakeFiles/rs-hello-realsense.dir/rs-hello-realsense.cpp.o -c /home/kirk/librealsense-2.43.0/examples/hello-realsense/rs-hello-realsense.cpp",
+  "file": "/home/kirk/librealsense-2.43.0/examples/hello-realsense/rs-hello-realsense.cpp"
+}
+]

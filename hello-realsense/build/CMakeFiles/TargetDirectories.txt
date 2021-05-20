@@ -1,0 +1,7 @@
+/home/kirk/librealsense-2.43.0/examples/hello-realsense/build/CMakeFiles/install/strip.dir
+/home/kirk/librealsense-2.43.0/examples/hello-realsense/build/CMakeFiles/edit_cache.dir
+/home/kirk/librealsense-2.43.0/examples/hello-realsense/build/CMakeFiles/rs-hello-realsense.dir
+/home/kirk/librealsense-2.43.0/examples/hello-realsense/build/CMakeFiles/rebuild_cache.dir
+/home/kirk/librealsense-2.43.0/examples/hello-realsense/build/CMakeFiles/list_install_components.dir
+/home/kirk/librealsense-2.43.0/examples/hello-realsense/build/CMakeFiles/install/local.dir
+/home/kirk/librealsense-2.43.0/examples/hello-realsense/build/CMakeFiles/install.dir
